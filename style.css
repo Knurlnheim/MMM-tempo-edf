@@ -1,0 +1,17 @@
+
+
+.ROUGE {
+  color: red;
+}
+
+.BLEU {
+  color: RoyalBlue;
+}
+
+.BLANC {
+  color: white;
+}
+
+.td-align-right {
+  text-align: right;
+}
